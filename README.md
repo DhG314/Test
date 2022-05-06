@@ -1,2 +1,2 @@
 # Test
-a test repo
+a test blog repo
