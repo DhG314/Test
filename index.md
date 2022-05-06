@@ -2,12 +2,15 @@
 
 这是图一
 ![Image](resources/img1.png)
-'''markdown
+```markdown
 ![Image](resources/img1.png)
-'''
+```
 
 这是图二
 ![Image](https://github.com/DhG314/Test/blob/gh-pages/resources/img2.png)
+```markdown
+![Image](https://github.com/DhG314/Test/blob/gh-pages/resources/img2.png)
+```
 
 You can use the [editor on GitHub](https://github.com/DhG314/Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
