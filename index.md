@@ -1,6 +1,6 @@
 ## Test Page
 
-[Image](resource/img1.png)
+![Image](img1.png)
 
 
 
