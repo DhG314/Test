@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Test Page
+
+[Image](resource/img1.png)
+
+
 
 You can use the [editor on GitHub](https://github.com/DhG314/Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
